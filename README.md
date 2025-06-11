@@ -1,5 +1,29 @@
-<h1 align="center">Hi 👋, I'm vincent</h1>
-<h3 align="center">A passionate frontend developer and mobile developer</h3>
+# 👋 Hi, I'm [Nama Kamu]
+Welcome to my GitHub portfolio! I'm a [profesi/kegiatan, contoh: Junior Web Developer] passionate about building web and mobile applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🌟 About Me
+- 🔭 I’m currently working on: [nama proyek atau belajar teknologi]
+- 🌱 I’m currently learning: React, Laravel, Flutter
+- 💬 Ask me about: Web Development, UI/UX, etc.
+- 📫 How to reach me: [email atau link sosial media]
+
+## 📁 Featured Projects
+### 📌 [Nama Proyek 1]
+Deskripsi singkat proyek, teknologinya apa, dan tujuan proyek.
+[Link Demo](https://...) | [Source Code](https://github.com/...)
+
+### 📌 [Nama Proyek 2]
+Deskripsi dan link seperti di atas.
+
+## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-orange)
+![CSS](https://img.shields.io/badge/-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+...dan lainnya
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+---
+
+Thanks for visiting my profile! 🚀
