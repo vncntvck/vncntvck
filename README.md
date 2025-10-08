@@ -1,13 +1,11 @@
 # 👋 Hi there, I'm Vincentius Vicko!
-![Code GIF](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+![Code GIF](https://i.postimg.cc/3R2Wnznz/download.gif)
 
 
 ## 🧑‍💻 About Me
 
-- 🛠️ I’m currently working with: Flutter, Laravel, MySQL
-- 🌱 I’m currently learning: React
+- 🛠️ I’m currently working with: Flutter, Tailwind, MYSQL
 - 💬 Ask me about: Web & Mobile Development
-
 
 ## 🔧 Tech Stack
 
@@ -17,6 +15,3 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-f55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
