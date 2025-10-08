@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Vincentius Vicko!
-![Code GIF](https://i.postimg.cc/3R2Wnznz/download.gif)
+[![download.gif](https://i.postimg.cc/3R2Wnznz/download.gif)](https://postimg.cc/WFb24YR7)
 
 
 ## 🧑‍💻 About Me
