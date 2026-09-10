@@ -10,7 +10,7 @@
   </p>
 
   <!-- Badges Quick Links -->
-  <a href="https://github.com/vicko">
+  <a href="https://github.com/vncntvck ">
     <img src="https://img.shields.io/github/followers/vicko?label=Followers&style=for-the-badge&color=0284c7&logo=github" alt="Followers"/>
   </a>
   <a href="mailto:email@example.com">
