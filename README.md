@@ -94,8 +94,6 @@ vincentius_vicko:
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/vncntvck/vncntvck/gh-pages/github-contribution-grid-snake.svg">
 </picture>
 
-> ⚠️ _Snake muncul setelah workflow **Generate Snake Animation** jalan pertama kali di repo ini._
-
 </div>
 
 ---
