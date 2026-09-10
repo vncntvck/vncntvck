@@ -110,22 +110,6 @@ vincentius_vicko:
   <tr>
     <td width="50%" valign="top" align="center">
       <br/>
-      <h3>🤖 Discord Event Bot</h3>
-      <!-- Animated GIF placeholder — replace with real screenshot -->
-      <img src="https://via.placeholder.com/420x230/1e1b4b/a78bfa?text=🤖+Discord+Event+Bot" width="100%" style="border-radius:10px"/>
-      <br/><br/>
-      <p align="left">Bot Discord untuk reminder event otomatis. Fitur: countdown per jam, slash commands, color-coded embeds, dan auto-cleanup event kadaluarsa.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Status-Live-00D26A?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/vncntvck/discord-event-bot">
-        <img src="https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <br/>
       <h3>🌐 Personal Portfolio &nbsp;<img src="https://img.shields.io/badge/-Coming%20Soon-f97316?style=flat-square"/></h3>
       <img src="https://via.placeholder.com/420x230/0f172a/38bdf8?text=🌐+Portfolio+Website" width="100%" style="border-radius:10px"/>
       <br/><br/>
@@ -140,50 +124,6 @@ vincentius_vicko:
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <h3>🛒 E-Commerce App &nbsp;<img src="https://img.shields.io/badge/-Coming%20Soon-f97316?style=flat-square"/></h3>
-      <img src="https://via.placeholder.com/420x230/0f172a/38bdf8?text=🛒+E-Commerce+App" width="100%" style="border-radius:10px"/>
-      <br/><br/>
-      <p align="left">Toko online lengkap: sistem auth, cart, checkout, manajemen produk & pesanan, berbasis PHP & MySQL.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Status-Soon-f97316?style=flat-square"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/🔜%20Coming%20Soon-0f172a?style=for-the-badge&color=f97316"/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <h3>📋 Task Manager &nbsp;<img src="https://img.shields.io/badge/-Coming%20Soon-f97316?style=flat-square"/></h3>
-      <img src="https://via.placeholder.com/420x230/0f172a/38bdf8?text=📋+Task+Manager" width="100%" style="border-radius:10px"/>
-      <br/><br/>
-      <p align="left">Aplikasi manajemen tugas berbasis web. Fitur: prioritas, deadline, dashboard progress, dan kategori task.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Status-Soon-f97316?style=flat-square"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/🔜%20Coming%20Soon-0f172a?style=for-the-badge&color=f97316"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <h3>🏥 Clinic System &nbsp;<img src="https://img.shields.io/badge/-Coming%20Soon-f97316?style=flat-square"/></h3>
-      <img src="https://via.placeholder.com/420x230/0f172a/38bdf8?text=🏥+Clinic+System" width="100%" style="border-radius:10px"/>
-      <br/><br/>
-      <p align="left">Sistem informasi klinik: manajemen pasien, dokter, jadwal praktik, dan rekam medis digital.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Status-Soon-f97316?style=flat-square"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/🔜%20Coming%20Soon-0f172a?style=for-the-badge&color=f97316"/>
-    </td>
     <td width="50%" valign="top" align="center">
       <br/>
       <h3>🤖 Telegram Bot &nbsp;<img src="https://img.shields.io/badge/-Coming%20Soon-f97316?style=flat-square"/></h3>
@@ -201,41 +141,6 @@ vincentius_vicko:
 </table>
 
 ---
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<!-- ANIMATED STATS CARDS -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vncntvck&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0284c7&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vncntvck&layout=donut&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0"/>
-
-<br/>
-
-<!-- ANIMATED STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vncntvck&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=0284c7&fire=f97316&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff"/>
-
-<br/>
-
-<!-- ANIMATED TROPHY -->
-<img src="https://github-profile-trophy.vercel.app/?username=vncntvck&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Activity Graph
-
-<!-- ANIMATED CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vncntvck&bg_color=0f172a&color=38bdf8&line=0284c7&point=f97316&area=true&hide_border=true&area_color=0284c7" width="100%"/>
-
-</div>
-
----
-
 <div align="center">
 
 <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
