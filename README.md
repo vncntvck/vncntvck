@@ -108,17 +108,21 @@ vincentius_vicko:
   <tr>
     <td width="50%" valign="top" align="center">
       <br/>
-      <h3>🌐 Personal Portfolio &nbsp;<img src="https://img.shields.io/badge/-Coming%20Soon-f97316?style=flat-square"/></h3>
-      <img src="https://via.placeholder.com/420x230/0f172a/38bdf8?text=🌐+Portfolio+Website" width="100%" style="border-radius:10px"/>
+      <h3>🌐 Personal Portfolio &nbsp;<img src="https://img.shields.io/badge/-Live-22c55e?style=flat-square"/></h3>
+      <a href="https://www.vincentvicko.my.id/" target="_blank">
+        <img src="https://api.microlink.io/?url=https%3A%2F%2Fwww.vincentvicko.my.id%2F&screenshot=true&meta=false&embed=screenshot.url" width="100%" style="border-radius:10px" alt="vincentvicko.my.id preview"/>
+      </a>
       <br/><br/>
       <p align="left">Website portfolio modern dengan dark mode, animasi scroll, project showcase, dan contact form.</p>
       <br/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Status-Soon-f97316?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/🔜%20Coming%20Soon-0f172a?style=for-the-badge&color=f97316"/>
+      <a href="https://www.vincentvicko.my.id/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐%20Visit%20Website-0f172a?style=for-the-badge&color=38bdf8"/>
+      </a>
     </td>
   </tr>
   <tr>
