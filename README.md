@@ -125,21 +125,6 @@ vincentius_vicko:
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <h3>🤖 Telegram Bot &nbsp;<img src="https://img.shields.io/badge/-Coming%20Soon-f97316?style=flat-square"/></h3>
-      <img src="https://via.placeholder.com/420x230/0f172a/38bdf8?text=🤖+Telegram+Bot" width="100%" style="border-radius:10px"/>
-      <br/><br/>
-      <p align="left">Bot Telegram multifungsi untuk utilitas harian, notifikasi pintar, dan automation berbasis perintah.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Status-Soon-f97316?style=flat-square"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/🔜%20Coming%20Soon-0f172a?style=for-the-badge&color=f97316"/>
-    </td>
-  </tr>
 </table>
 
 ---
